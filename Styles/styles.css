@@ -1,0 +1,11 @@
+div {
+    border: 3px solid rgb(1, 23, 145);
+    border-radius: 20px;
+    background-image: url(/img/img1.jpg);
+    background-size: contain;
+}
+
+div:hover {
+    background-image: url(/img/img2.jpg);
+    background-size: contain;
+}
